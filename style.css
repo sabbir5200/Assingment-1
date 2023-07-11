@@ -43,6 +43,11 @@ line-height: 30px;
     margin-top: 20px;
     color: white;
 }
+.primary-btn:hover{
+    background-color: black;
+    transition: .5s;
+    cursor: pointer;
+}
 .feature-info{
    color: #272727;
    text-align: center;
