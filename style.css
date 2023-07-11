@@ -6,13 +6,13 @@
     display: flex;
     background-color: rgba(229, 84, 115, 0.1);
     justify-content: space-between;
-    padding: 10px;
     align-items: center;
     margin-bottom: 30px;
     
 }
 .banner-img{
     width: 100%;
+    margin-top: 50px;
 }
 .child-2{
     margin-right: 250px;
